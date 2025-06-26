@@ -11,3 +11,6 @@ With a focus on simplicity and accessibility, users can:
 🔍 Search and filter recipes based on ingredients, meal type, or cuisine.
 
 PlantNPlate brings food lovers together in one platform — making cooking more social, inspiring, and delicious.
+
+
+![image alt](https://github.com/mFaizAzlin/PlanNPlate/blob/69a96d6a2b306aa35304611d53212fa22f60aa70/images/Screenshot%202025-06-27%20012422.png)
